@@ -2,7 +2,7 @@
 
 🚀 Full-stack developer passionate about building scalable and efficient applications.
 
-### 🌱 [Check me out](https://swanhtataung.com)
+### 🌱 [Check out my website](https://swanhtataung.com)
 
 ### 🛠 Tech Stack
 
@@ -42,7 +42,7 @@ When I code, I rely on:
 - [Stylic Painting](https://stylicpainting.sg)
 
 ### ⚡ Fun Stuff
-> "Hey guys check out latest project! You can view it on http://localhost:3000 😹"
+> "Hey guys check out my latest project! http://localhost:3000 😹"
 
 ---
 
