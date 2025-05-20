@@ -3,7 +3,7 @@
 🚀 Full-stack developer passionate about building scalable and efficient applications.
 
 ### Latest Project
-Code Snipper -> MDX for faster documentation.
+Code Snippet -> MDX for faster documentation.
 [Check it out!](https://mdx.swanhtataung.com)
 
 ### 🌱 [Check out my website](https://swanhtataung.com)
