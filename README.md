@@ -42,11 +42,14 @@ When I code, I rely on:
 - A crm built for SMEs in singpaore
 
 ### 🏡 I've Built
+- [Portfolio](https://swanhtataung.com)
+- [Code to MDX](https://mdx.swanhtataung.com)
+- [Parsely](https://parsely.swanhtataung.com)
 - [Goodhelper](https://goodhelper.com.sg)
 - [Stylic Painting](https://stylicpainting.sg)
 
 ### ⚡ Fun Stuff
-> "Hey guys check out my latest project! http://localhost:3000 😹"
+> "Hey guys check out my latest project! You can find it at http://localhost:3000 😹"
 
 ---
 
