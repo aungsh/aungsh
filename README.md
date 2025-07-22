@@ -3,8 +3,8 @@
 🚀 Full-stack developer passionate about building cool stuff.
 
 ### Latest Project
-Code Snippet -> MDX for faster documentation.
-[Check it out!](https://mdx.swanhtataung.com)
+Study Tools -> Awesome tools for students
+[Check it out!](https://study.swanhtataung.com)
 
 ### 🌱 [Check out my website](https://swanhtataung.com)
 
