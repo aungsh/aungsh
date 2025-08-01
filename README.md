@@ -2,10 +2,6 @@
 
 🚀 Full-stack developer passionate about building cool stuff.
 
-### Latest Project
-Study Tools -> Awesome tools for students
-[Check it out!](https://study.swanhtataung.com)
-
 ### 🌱 [Check out my website](https://swanhtataung.com)
 
 ### 🛠 Tech Stack
@@ -25,10 +21,6 @@ When I code, I rely on:
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-F89820?style=flat-square&logo=amazon-aws&logoColor=white)  ![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS%20Elastic%20Beanstalk-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white)  ![AWS Route 53](https://img.shields.io/badge/-AWS%20Route%2053-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)  
 
 ---
-
-### 🔭 What I'm Working On
-- [HorizonFocus CRM](https://horizonfocus.cloud) ☁️
-- A crm built for SMEs in singpaore
 
 ### 🏡 I've Built
 - [Portfolio](https://swanhtataung.com)
