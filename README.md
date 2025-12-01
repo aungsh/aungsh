@@ -22,11 +22,15 @@ When I code, I rely on:
 
 ---
 
+### 🚧 WIP
+- [Study Helper](https://study.swanhtataung.com/)
+
 ### 🏡 I've Built
+- [SIT AIO (Arduino Project)](https://sit-aio.vercel.app/)
+- [Popcorn Vibes](https://popcornvibes.vercel.app/)
 - [Your Life In Weeks](https://life.swanhtataung.com)
 - [Portfolio](https://swanhtataung.com)
 - [Code to MDX](https://mdx.swanhtataung.com)
-- [Parsely](https://parsely.swanhtataung.com)
 - [Goodhelper](https://goodhelper.com.sg)
 - [Stylic Painting](https://stylicpainting.sg)
 
