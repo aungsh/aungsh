@@ -23,7 +23,7 @@ When I code, I rely on:
 ---
 
 ### I've Built
-- [Gym Nagger)](https://nagger.aungsh.com/)
+- [Gym Nagger](https://nagger.aungsh.com/)
 - [SIT AIO (Arduino Project)](https://sit-aio.vercel.app/)
 - [Popcorn Vibes](https://popcornvibes.vercel.app/)
 - [Your Life In Weeks](https://life.aungsh.com)
